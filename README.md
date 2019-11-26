@@ -1,6 +1,6 @@
 `hte` provides functions for estimating heterogenous treatment effects.
 
-[Metalearners for estimating heterogeneous treatment effects using machine learning](https://www.pnas.org/content/116/10/4156)
+[Metalearners for estimating heterogeneous treatment effects using machine learning. PNAS 2019](https://www.pnas.org/content/116/10/4156)
 
 ## How to install
 
